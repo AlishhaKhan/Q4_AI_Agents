@@ -1,6 +1,6 @@
 # Class 02 Assignment - October 19
 
-# Assignment
+# Assignment✒
 
 # 1. LLM (Large Language Model)
 ## Definition:
